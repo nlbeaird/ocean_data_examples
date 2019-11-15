@@ -1,0 +1,17 @@
+name: ocean_examples
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - xarray
+  - xgcm
+  - netcdf4
+  - dask
+  - scipy
+  - cartopy
+  - oceans
+  - gsw
+  - seawater
+  - numba
+  - matplotlib

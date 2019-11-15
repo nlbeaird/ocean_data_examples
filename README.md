@@ -10,9 +10,15 @@ Many of these are examples I use(d) in my integrated ocean observing class. Hope
 
 
 Hopefully by clicking the link below you can **run these notebooks** without installing anything!
+
 (seems to take a long time to load)
+
 ||
+
 ||
+
 ||
+
 VV
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlbeaird/ocean_data_examples.git/master)
