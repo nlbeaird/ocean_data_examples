@@ -21,4 +21,4 @@ Hopefully by clicking the link below you can [**run these notebooks**](https://m
 
 VV
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlbeaird/ocean_data_examples.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlbeaird/ocean_data_examples.git/master?urlpath=lab)
