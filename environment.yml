@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
+  - python
   - xarray
   - xgcm
   - netcdf4
@@ -16,3 +16,4 @@ dependencies:
   - numba
   - matplotlib
   - cmocean
+  - jupyterlab
